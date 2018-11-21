@@ -153,7 +153,7 @@ a.social {
 }
 
 a.github {
-  background-image: url(treehousepj1assets/github.svg);
+  background-image: url('treehousepj1assets/github.svg');
 }
 a.social:hover {
   opacity: 1;
